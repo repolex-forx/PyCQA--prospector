@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "prospector",
+  "versions": [
+    {
+      "commit": "58a90fc31b081621b75fa88f2e0c8cd906d0e012",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:59:13.587051+00:00"
+    }
+  ]
+}
